@@ -1,0 +1,4 @@
+GROUP-NAME:ContentMicroGoalPlans
+PAIR-NAME:Return Micro goal data by alias
+GET /content/microgoalplans/{id}
+

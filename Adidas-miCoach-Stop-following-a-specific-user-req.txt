@@ -1,0 +1,4 @@
+GROUP-NAME:Following
+PAIR-NAME:Stop following a specific user
+DELETE /Users/{userId}/following/{followeeId}
+

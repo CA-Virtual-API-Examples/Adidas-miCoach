@@ -1,0 +1,221 @@
+200
+
+{
+  "previousPage": "http://api1.example.com",
+  "nextPage": "http://api2.example.com",
+  "startIndex": 3,
+  "itemsPerPage": 4,
+  "totalResults": 5,
+  "results": [
+    {
+      "microGoalId": 1,
+      "name": "sample string 2",
+      "description": "sample string 3",
+      "href": "http://api4.example.com",
+      "alias": "sample string 5",
+      "type": "weeklyGoal",
+      "days": [
+        {
+          "day": 1,
+          "intervals": [
+            {
+              "zone": "blue",
+              "duration": 1.1,
+              "level": 2
+            },
+            {
+              "zone": "blue",
+              "duration": 1.1,
+              "level": 2
+            },
+            {
+              "zone": "blue",
+              "duration": 1.1,
+              "level": 2
+            }
+          ]
+        },
+        {
+          "day": 1,
+          "intervals": [
+            {
+              "zone": "blue",
+              "duration": 1.1,
+              "level": 2
+            },
+            {
+              "zone": "blue",
+              "duration": 1.1,
+              "level": 2
+            },
+            {
+              "zone": "blue",
+              "duration": 1.1,
+              "level": 2
+            }
+          ]
+        },
+        {
+          "day": 1,
+          "intervals": [
+            {
+              "zone": "blue",
+              "duration": 1.1,
+              "level": 2
+            },
+            {
+              "zone": "blue",
+              "duration": 1.1,
+              "level": 2
+            },
+            {
+              "zone": "blue",
+              "duration": 1.1,
+              "level": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "microGoalId": 1,
+      "name": "sample string 2",
+      "description": "sample string 3",
+      "href": "http://api4.example.com",
+      "alias": "sample string 5",
+      "type": "weeklyGoal",
+      "days": [
+        {
+          "day": 1,
+          "intervals": [
+            {
+              "zone": "blue",
+              "duration": 1.1,
+              "level": 2
+            },
+            {
+              "zone": "blue",
+              "duration": 1.1,
+              "level": 2
+            },
+            {
+              "zone": "blue",
+              "duration": 1.1,
+              "level": 2
+            }
+          ]
+        },
+        {
+          "day": 1,
+          "intervals": [
+            {
+              "zone": "blue",
+              "duration": 1.1,
+              "level": 2
+            },
+            {
+              "zone": "blue",
+              "duration": 1.1,
+              "level": 2
+            },
+            {
+              "zone": "blue",
+              "duration": 1.1,
+              "level": 2
+            }
+          ]
+        },
+        {
+          "day": 1,
+          "intervals": [
+            {
+              "zone": "blue",
+              "duration": 1.1,
+              "level": 2
+            },
+            {
+              "zone": "blue",
+              "duration": 1.1,
+              "level": 2
+            },
+            {
+              "zone": "blue",
+              "duration": 1.1,
+              "level": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "microGoalId": 1,
+      "name": "sample string 2",
+      "description": "sample string 3",
+      "href": "http://api4.example.com",
+      "alias": "sample string 5",
+      "type": "weeklyGoal",
+      "days": [
+        {
+          "day": 1,
+          "intervals": [
+            {
+              "zone": "blue",
+              "duration": 1.1,
+              "level": 2
+            },
+            {
+              "zone": "blue",
+              "duration": 1.1,
+              "level": 2
+            },
+            {
+              "zone": "blue",
+              "duration": 1.1,
+              "level": 2
+            }
+          ]
+        },
+        {
+          "day": 1,
+          "intervals": [
+            {
+              "zone": "blue",
+              "duration": 1.1,
+              "level": 2
+            },
+            {
+              "zone": "blue",
+              "duration": 1.1,
+              "level": 2
+            },
+            {
+              "zone": "blue",
+              "duration": 1.1,
+              "level": 2
+            }
+          ]
+        },
+        {
+          "day": 1,
+          "intervals": [
+            {
+              "zone": "blue",
+              "duration": 1.1,
+              "level": 2
+            },
+            {
+              "zone": "blue",
+              "duration": 1.1,
+              "level": 2
+            },
+            {
+              "zone": "blue",
+              "duration": 1.1,
+              "level": 2
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

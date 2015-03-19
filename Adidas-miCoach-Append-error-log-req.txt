@@ -1,0 +1,13 @@
+GROUP-NAME:ClientErrorLogs
+PAIR-NAME:Append error log
+POST /Diagnostics/ClientErrorLogs
+
+{
+  "userEmail": "{{=[:Email:]}}",
+  "deviceType": "v1Phone",
+  "errorDateTime": "2015-03-19T16:21:41Z",
+  "errorCode": 3,
+  "errorText": "sample string 4",
+  "comment": "sample string 5",
+  "logFileAsBase64": "sample string 6"
+}

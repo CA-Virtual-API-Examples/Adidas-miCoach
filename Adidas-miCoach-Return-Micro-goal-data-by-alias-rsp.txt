@@ -1,0 +1,72 @@
+200
+
+{
+  "microGoalId": "{id}",
+  "name": "sample string 2",
+  "description": "sample string 3",
+  "href": "http://api4.example.com",
+  "alias": "sample string 5",
+  "type": "weeklyGoal",
+  "days": [
+    {
+      "day": 1,
+      "intervals": [
+        {
+          "zone": "blue",
+          "duration": 1.1,
+          "level": 2
+        },
+        {
+          "zone": "blue",
+          "duration": 1.1,
+          "level": 2
+        },
+        {
+          "zone": "blue",
+          "duration": 1.1,
+          "level": 2
+        }
+      ]
+    },
+    {
+      "day": 1,
+      "intervals": [
+        {
+          "zone": "blue",
+          "duration": 1.1,
+          "level": 2
+        },
+        {
+          "zone": "blue",
+          "duration": 1.1,
+          "level": 2
+        },
+        {
+          "zone": "blue",
+          "duration": 1.1,
+          "level": 2
+        }
+      ]
+    },
+    {
+      "day": 1,
+      "intervals": [
+        {
+          "zone": "blue",
+          "duration": 1.1,
+          "level": 2
+        },
+        {
+          "zone": "blue",
+          "duration": 1.1,
+          "level": 2
+        },
+        {
+          "zone": "blue",
+          "duration": 1.1,
+          "level": 2
+        }
+      ]
+    }
+  ]
+}

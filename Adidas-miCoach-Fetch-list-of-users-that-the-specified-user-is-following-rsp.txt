@@ -1,0 +1,59 @@
+200
+
+{
+  "previousPage": "http://api1.example.com",
+  "nextPage": "http://api2.example.com",
+  "startIndex": 3,
+  "itemsPerPage": 4,
+  "totalResults": 5,
+  "results": [
+    {
+      "userId": 1,
+      "screenName": "sample string 2",
+      "firstName": "sample string 3",
+      "lastName": "sample string 4",
+      "city": "sample string 5",
+      "state": "sample string 6",
+      "country": "sample string 7",
+      "status": "sample string 8",
+      "statusDate": "2015-03-19T17:52:16Z",
+      "gender": "female",
+      "avatar": {
+        "48_x_48": "http://api1.example.com",
+        "170_x_170": "http://api2.example.com"
+      }
+    },
+    {
+      "userId": 1,
+      "screenName": "sample string 2",
+      "firstName": "sample string 3",
+      "lastName": "sample string 4",
+      "city": "sample string 5",
+      "state": "sample string 6",
+      "country": "sample string 7",
+      "status": "sample string 8",
+      "statusDate": "2015-03-19T17:52:16Z",
+      "gender": "female",
+      "avatar": {
+        "48_x_48": "http://api1.example.com",
+        "170_x_170": "http://api2.example.com"
+      }
+    },
+    {
+      "userId": 1,
+      "screenName": "sample string 2",
+      "firstName": "sample string 3",
+      "lastName": "sample string 4",
+      "city": "sample string 5",
+      "state": "sample string 6",
+      "country": "sample string 7",
+      "status": "sample string 8",
+      "statusDate": "2015-03-19T17:52:16Z",
+      "gender": "female",
+      "avatar": {
+        "48_x_48": "http://api1.example.com",
+        "170_x_170": "http://api2.example.com"
+      }
+    }
+  ]
+}

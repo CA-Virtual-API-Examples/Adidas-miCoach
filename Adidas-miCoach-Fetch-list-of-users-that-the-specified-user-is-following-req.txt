@@ -1,0 +1,4 @@
+GROUP-NAME:Following
+PAIR-NAME:Fetch list of users that the specified user is following
+GET /Users/{userId}/following
+

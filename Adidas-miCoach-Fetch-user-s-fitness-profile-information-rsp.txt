@@ -1,0 +1,92 @@
+200
+
+{
+  "coachingMethod": "pace",
+  "heightInCentimeters": 1,
+  "weightInGrammes": 2,
+  "maxHr": 3,
+  "peekHr": 4,
+  "vtHr": 5,
+  "maxSpeed": 1.0,
+  "intensityZones": [
+    {
+      "zone": "blue",
+      "lowerPaceBoundary": 1.0,
+      "upperPaceBoundary": 2.0,
+      "lowerBpmBoundary": 3,
+      "upperBpmBoundary": 4
+    },
+    {
+      "zone": "blue",
+      "lowerPaceBoundary": 1.0,
+      "upperPaceBoundary": 2.0,
+      "lowerBpmBoundary": 3,
+      "upperBpmBoundary": 4
+    },
+    {
+      "zone": "blue",
+      "lowerPaceBoundary": 1.0,
+      "upperPaceBoundary": 2.0,
+      "lowerBpmBoundary": 3,
+      "upperBpmBoundary": 4
+    }
+  ],
+  "movements": [
+    {
+      "packId": 1,
+      "movementId": 2,
+      "url": "http://api3.example.com",
+      "load": 4,
+      "reps": 5
+    },
+    {
+      "packId": 1,
+      "movementId": 2,
+      "url": "http://api3.example.com",
+      "load": 4,
+      "reps": 5
+    },
+    {
+      "packId": 1,
+      "movementId": 2,
+      "url": "http://api3.example.com",
+      "load": 4,
+      "reps": 5
+    }
+  ],
+  "exercises": [
+    {
+      "order": 1,
+      "movement": {
+        "href": "http://api1.example.com",
+        "mediaType": "sample string 2",
+        "id": 1
+      },
+      "numberOfRepetitions": 2,
+      "time": 3,
+      "load": 4
+    },
+    {
+      "order": 1,
+      "movement": {
+        "href": "http://api1.example.com",
+        "mediaType": "sample string 2",
+        "id": 1
+      },
+      "numberOfRepetitions": 2,
+      "time": 3,
+      "load": 4
+    },
+    {
+      "order": 1,
+      "movement": {
+        "href": "http://api1.example.com",
+        "mediaType": "sample string 2",
+        "id": 1
+      },
+      "numberOfRepetitions": 2,
+      "time": 3,
+      "load": 4
+    }
+  ]
+}

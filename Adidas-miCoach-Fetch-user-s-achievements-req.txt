@@ -1,0 +1,5 @@
+GROUP-NAME:Achievements
+PAIR-NAME:Fetch user's achievements
+GET /Users/{userId}/achievements
+Content-Type:application/json;charset=UTF8
+

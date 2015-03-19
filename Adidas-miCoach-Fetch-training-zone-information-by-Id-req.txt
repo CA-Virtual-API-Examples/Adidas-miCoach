@@ -1,0 +1,4 @@
+GROUP-NAME:Fitness
+PAIR-NAME:Fetch training zone information by Id
+GET /Users/{userId}/fitness/{id}
+

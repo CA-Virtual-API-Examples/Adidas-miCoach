@@ -1,0 +1,4 @@
+GROUP-NAME:Fitness
+PAIR-NAME:Fetch user’s fitness profile information
+GET /Users/{userId}/fitness
+

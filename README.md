@@ -11,8 +11,6 @@ The virtualized sample API is divided into the following groups:
   Following.
   
 Full details of the request-response pairs making up the sample API can be seen in the Editor tab.
+
 Note the use of the string pattern {{=[:Email:]}} in the "Append error log".
 This will generate a random email address in the response when the request is sent.
-
-All the pairs have JSON responses.  When you execute any GET requests you can change the format of the response to XML using the $format=xml parameter e.g.
-GET /Users/Sample-userId/achievements?$format=xml

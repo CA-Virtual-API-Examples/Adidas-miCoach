@@ -12,5 +12,5 @@ The virtualized sample API is divided into the following groups:
   
 Full details of the request-response pairs making up the sample API can be seen in the Editor tab.
 
-Note the use of the string pattern {{=[:Email:]}} in the "Append error log".
-This will generate a random email address in the response when the request is sent.
+Note the use of the string pattern {{=[:Email:]}} in the "Append error log" pair.
+This will generate a random email address in the response.

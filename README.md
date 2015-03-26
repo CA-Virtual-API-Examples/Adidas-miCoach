@@ -1,7 +1,8 @@
 # Adidas-miCoach
 
 This API is a virtualized sample of the Adidas miCoach API.
-Full details of the latter can be found at https://api.micoach.adidas.com/v3/help.
+Full details of the latter can be found 
+at https://api.micoach.adidas.com/v3/help.
 
 The virtualized sample API is divided into the following groups:
   Achievements,
